@@ -27,5 +27,7 @@
 ### 1. Клонирование репозитория
 
 ```bash
-root # git clone [https://github.com/ZakatCloud/ZAKAT-TELEGRAM-USERBOT](https://github.com/ZakatCloud/ZAKAT-TELEGRAM-USERBOT)
+root # git clone https://github.com/ZakatCloud/ZAKAT-TELEGRAM-USERBOT
 root # cd ZAKAT-TELEGRAM-USERBOT
+root # npm install
+root # node main.js
