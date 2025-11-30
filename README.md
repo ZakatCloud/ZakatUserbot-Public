@@ -30,6 +30,7 @@ root # git clone https://github.com/ZakatCloud/ZakatUserbot-Public
 root # cd ZAKAT-TELEGRAM-USERBOT
 root # npm install
 root # node main.js
+```
 
 ### 2. Настройка для работы юзербота
 
