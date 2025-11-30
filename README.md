@@ -27,7 +27,7 @@
 
 ```bash
 root # git clone https://github.com/ZakatCloud/ZakatUserbot-Public
-root # cd ZAKAT-TELEGRAM-USERBOT
+root # cd ZakatUserbot-Public
 root # npm install
 root # node main.js
 ```
