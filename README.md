@@ -26,7 +26,7 @@
 ### 1. Клонирование репозитория, установка зависимостей и запуск
 
 ```bash
-root # git clone https://github.com/ZakatCloud/ZAKAT-TELEGRAM-USERBOT
+root # git clone https://github.com/ZakatCloud/ZakatUserbot-Public
 root # cd ZAKAT-TELEGRAM-USERBOT
 root # npm install
 root # node main.js
