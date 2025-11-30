@@ -30,3 +30,7 @@ root # git clone https://github.com/ZakatCloud/ZakatUserbot-Public
 root # cd ZAKAT-TELEGRAM-USERBOT
 root # npm install
 root # node main.js
+
+### 2. Настройка для работы юзербота
+
+**Не забудьте установить API_HASH и API_ID в конфиг main.js. При первом запуске у вас запросит номер телефона, код и 2FA при наличии - это нормально, весь код полностью открыт.**
